@@ -1,4 +1,3 @@
-<img src="Discord%20Bot/avatar.png" align="right" />
 
 # EzStreaming
 > Easy configure/setup streamings for multiple platforms
